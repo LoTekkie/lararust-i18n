@@ -1,0 +1,4 @@
+cargo:warning=Ignoring invalid or reserved module name 'generated_mod'
+cargo:warning=Ignoring invalid or reserved module name 'mod'
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=src/lang/
